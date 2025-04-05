@@ -128,5 +128,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 📢 Contact
 **Zainab Beebi**
 - GitHub: [@beebiZainab](https://github.com/beebiZainab)
-- Email: [your-email@example.com]
+- Email: beebizainab29@gmail.com
+
 
